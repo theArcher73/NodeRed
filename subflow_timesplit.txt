@@ -1,0 +1,1047 @@
+[
+    {
+        "id": "bb04b45636d46b25",
+        "type": "subflow",
+        "name": "timesplitt",
+        "info": "",
+        "category": "",
+        "in": [
+            {
+                "x": 220,
+                "y": 160,
+                "wires": [
+                    {
+                        "id": "e5cccdcb074f9d46"
+                    },
+                    {
+                        "id": "fb1d7448bc248b20"
+                    }
+                ]
+            }
+        ],
+        "out": [
+            {
+                "x": 700,
+                "y": 160,
+                "wires": [
+                    {
+                        "id": "e5cccdcb074f9d46",
+                        "port": 0
+                    }
+                ]
+            },
+            {
+                "x": 700,
+                "y": 220,
+                "wires": [
+                    {
+                        "id": "d0c0fecf9b1fca69",
+                        "port": 0
+                    }
+                ]
+            },
+            {
+                "x": 700,
+                "y": 280,
+                "wires": [
+                    {
+                        "id": "a3c1460c370dea73",
+                        "port": 0
+                    }
+                ]
+            },
+            {
+                "x": 700,
+                "y": 340,
+                "wires": [
+                    {
+                        "id": "43cf0b72f441ee6e",
+                        "port": 0
+                    }
+                ]
+            },
+            {
+                "x": 700,
+                "y": 400,
+                "wires": [
+                    {
+                        "id": "7ca265bdc17cb7de",
+                        "port": 0
+                    }
+                ]
+            },
+            {
+                "x": 700,
+                "y": 460,
+                "wires": [
+                    {
+                        "id": "700e743d0be46c55",
+                        "port": 0
+                    }
+                ]
+            },
+            {
+                "x": 700,
+                "y": 520,
+                "wires": [
+                    {
+                        "id": "03228596925f3272",
+                        "port": 0
+                    }
+                ]
+            },
+            {
+                "x": 700,
+                "y": 580,
+                "wires": [
+                    {
+                        "id": "b86f9646fa04d897",
+                        "port": 0
+                    }
+                ]
+            },
+            {
+                "x": 700,
+                "y": 640,
+                "wires": [
+                    {
+                        "id": "5039a0d7f52ff2c3",
+                        "port": 0
+                    }
+                ]
+            },
+            {
+                "x": 700,
+                "y": 700,
+                "wires": [
+                    {
+                        "id": "08e6405452df7f72",
+                        "port": 0
+                    }
+                ]
+            },
+            {
+                "x": 700,
+                "y": 760,
+                "wires": [
+                    {
+                        "id": "eaaadd672a997216",
+                        "port": 0
+                    }
+                ]
+            },
+            {
+                "x": 700,
+                "y": 820,
+                "wires": [
+                    {
+                        "id": "de256ef042a2d281",
+                        "port": 0
+                    }
+                ]
+            },
+            {
+                "x": 1140,
+                "y": 160,
+                "wires": [
+                    {
+                        "id": "af8bb1983c5e254a",
+                        "port": 0
+                    }
+                ]
+            },
+            {
+                "x": 1140,
+                "y": 220,
+                "wires": [
+                    {
+                        "id": "f864ef0a20606a22",
+                        "port": 0
+                    }
+                ]
+            },
+            {
+                "x": 1140,
+                "y": 280,
+                "wires": [
+                    {
+                        "id": "dcc7ee604e90efe1",
+                        "port": 0
+                    }
+                ]
+            },
+            {
+                "x": 1140,
+                "y": 340,
+                "wires": [
+                    {
+                        "id": "e93172058adb110e",
+                        "port": 0
+                    }
+                ]
+            },
+            {
+                "x": 1140,
+                "y": 400,
+                "wires": [
+                    {
+                        "id": "5406a823c9541d36",
+                        "port": 0
+                    }
+                ]
+            },
+            {
+                "x": 1140,
+                "y": 460,
+                "wires": [
+                    {
+                        "id": "b0fed9a4fc781175",
+                        "port": 0
+                    }
+                ]
+            },
+            {
+                "x": 1140,
+                "y": 520,
+                "wires": [
+                    {
+                        "id": "430d935d8dceb02c",
+                        "port": 0
+                    }
+                ]
+            },
+            {
+                "x": 1140,
+                "y": 580,
+                "wires": [
+                    {
+                        "id": "93ee05b8ebd4f93a",
+                        "port": 0
+                    }
+                ]
+            },
+            {
+                "x": 1140,
+                "y": 640,
+                "wires": [
+                    {
+                        "id": "6c0a475e1cffa794",
+                        "port": 0
+                    }
+                ]
+            },
+            {
+                "x": 1140,
+                "y": 700,
+                "wires": [
+                    {
+                        "id": "6435a84f7c435670",
+                        "port": 0
+                    }
+                ]
+            },
+            {
+                "x": 1140,
+                "y": 760,
+                "wires": [
+                    {
+                        "id": "26f30baab7c84171",
+                        "port": 0
+                    }
+                ]
+            },
+            {
+                "x": 1140,
+                "y": 820,
+                "wires": [
+                    {
+                        "id": "26f30baab7c84171",
+                        "port": 1
+                    }
+                ]
+            },
+            {
+                "x": 700,
+                "y": 20,
+                "wires": [
+                    {
+                        "id": "fb1d7448bc248b20",
+                        "port": 0
+                    }
+                ]
+            },
+            {
+                "x": 820,
+                "y": 20,
+                "wires": [
+                    {
+                        "id": "7a0997ffcaafca4c",
+                        "port": 0
+                    }
+                ]
+            },
+            {
+                "x": 1100,
+                "y": 20,
+                "wires": [
+                    {
+                        "id": "dfb2fd9bc95b038b",
+                        "port": 0
+                    }
+                ]
+            },
+            {
+                "x": 1140,
+                "y": 100,
+                "wires": [
+                    {
+                        "id": "dfb2fd9bc95b038b",
+                        "port": 1
+                    }
+                ]
+            }
+        ],
+        "env": [],
+        "meta": {
+            "module": "timesplitt",
+            "version": "0.9.0",
+            "author": "Steffen Grau <grau.digital@gmx.de>",
+            "desc": "Node liefert aus einem Timestamp verschiedene Zeitslots",
+            "keywords": "Zeitsort",
+            "license": "MIT"
+        },
+        "color": "#E9967A",
+        "inputLabels": [
+            "Timestamp"
+        ],
+        "outputLabels": [
+            "00:00-01:00",
+            "01:00-02:00",
+            "02:00-03:00",
+            "03:00-04:00",
+            "04:00-05:00",
+            "05:00-06:00",
+            "06:00-07:00",
+            "07:00-08:00",
+            "08:00-09:00",
+            "09:00-10:00",
+            "10:00-11:00",
+            "11:00-12:00",
+            "12:00-13:00",
+            "13:00-14:00",
+            "14:00-15:00",
+            "15:00-16:00",
+            "16:00-17:00",
+            "17:00-18:00",
+            "18:00-19:00",
+            "19:00-20:00",
+            "20:00-21:00",
+            "21:00-22:00",
+            "22:00-23:00",
+            "23:00-24:00",
+            "00:00-06:00",
+            "06:00-07:30",
+            "07:30-22:30",
+            "22:30-24:00"
+        ],
+        "icon": "font-awesome/fa-clock-o"
+    },
+    {
+        "id": "e5cccdcb074f9d46",
+        "type": "time-range-switch",
+        "z": "bb04b45636d46b25",
+        "name": "0-1",
+        "lat": "50.81059492256059",
+        "lon": "12.540379550695954",
+        "startTime": "00:00",
+        "endTime": "01:00",
+        "startOffset": 0,
+        "endOffset": 0,
+        "x": 510,
+        "y": 160,
+        "wires": [
+            [],
+            [
+                "d0c0fecf9b1fca69"
+            ]
+        ],
+        "inputLabels": [
+            "timestamp"
+        ],
+        "outputLabels": [
+            "00:00-01:00",
+            "01:00-24:00"
+        ]
+    },
+    {
+        "id": "d0c0fecf9b1fca69",
+        "type": "time-range-switch",
+        "z": "bb04b45636d46b25",
+        "name": "1-2",
+        "lat": "50.81059492256059",
+        "lon": "12.540379550695954",
+        "startTime": "01:00",
+        "endTime": "02:00",
+        "startOffset": 0,
+        "endOffset": 0,
+        "x": 510,
+        "y": 220,
+        "wires": [
+            [],
+            [
+                "a3c1460c370dea73"
+            ]
+        ],
+        "inputLabels": [
+            "01:00-24:00"
+        ],
+        "outputLabels": [
+            "01:00-02:00",
+            "02:00-24:00"
+        ]
+    },
+    {
+        "id": "a3c1460c370dea73",
+        "type": "time-range-switch",
+        "z": "bb04b45636d46b25",
+        "name": "2-3",
+        "lat": "50.81059492256059",
+        "lon": "12.540379550695954",
+        "startTime": "02:00",
+        "endTime": "03:00",
+        "startOffset": 0,
+        "endOffset": 0,
+        "x": 510,
+        "y": 280,
+        "wires": [
+            [],
+            [
+                "43cf0b72f441ee6e"
+            ]
+        ],
+        "inputLabels": [
+            "02:00-24:00"
+        ],
+        "outputLabels": [
+            "02:00-03:00",
+            "03:00-24:00"
+        ]
+    },
+    {
+        "id": "43cf0b72f441ee6e",
+        "type": "time-range-switch",
+        "z": "bb04b45636d46b25",
+        "name": "3-4",
+        "lat": "50.81059492256059",
+        "lon": "12.540379550695954",
+        "startTime": "03:00",
+        "endTime": "04:00",
+        "startOffset": 0,
+        "endOffset": 0,
+        "x": 510,
+        "y": 340,
+        "wires": [
+            [],
+            [
+                "7ca265bdc17cb7de"
+            ]
+        ],
+        "inputLabels": [
+            "03:00-24:00"
+        ],
+        "outputLabels": [
+            "03:00-04:00",
+            "04:00-24:00"
+        ]
+    },
+    {
+        "id": "7ca265bdc17cb7de",
+        "type": "time-range-switch",
+        "z": "bb04b45636d46b25",
+        "name": "4-5",
+        "lat": "50.81059492256059",
+        "lon": "12.540379550695954",
+        "startTime": "04:00",
+        "endTime": "05:00",
+        "startOffset": 0,
+        "endOffset": 0,
+        "x": 510,
+        "y": 400,
+        "wires": [
+            [],
+            [
+                "700e743d0be46c55"
+            ]
+        ],
+        "inputLabels": [
+            "04:00-24:00"
+        ],
+        "outputLabels": [
+            "04:00-05:00",
+            "05:00-24:00"
+        ]
+    },
+    {
+        "id": "700e743d0be46c55",
+        "type": "time-range-switch",
+        "z": "bb04b45636d46b25",
+        "name": "5-6",
+        "lat": "50.81059492256059",
+        "lon": "12.540379550695954",
+        "startTime": "05:00",
+        "endTime": "06:00",
+        "startOffset": 0,
+        "endOffset": 0,
+        "x": 510,
+        "y": 460,
+        "wires": [
+            [],
+            [
+                "03228596925f3272"
+            ]
+        ],
+        "inputLabels": [
+            "05:00-24:00"
+        ],
+        "outputLabels": [
+            "05:00-06:00",
+            "06:00-24:00"
+        ]
+    },
+    {
+        "id": "03228596925f3272",
+        "type": "time-range-switch",
+        "z": "bb04b45636d46b25",
+        "name": "6-7",
+        "lat": "50.81059492256059",
+        "lon": "12.540379550695954",
+        "startTime": "06:00",
+        "endTime": "07:00",
+        "startOffset": 0,
+        "endOffset": 0,
+        "x": 510,
+        "y": 520,
+        "wires": [
+            [],
+            [
+                "b86f9646fa04d897"
+            ]
+        ],
+        "inputLabels": [
+            "06:00-24:00"
+        ],
+        "outputLabels": [
+            "06:00-07:00",
+            "07:00-24:00"
+        ]
+    },
+    {
+        "id": "b86f9646fa04d897",
+        "type": "time-range-switch",
+        "z": "bb04b45636d46b25",
+        "name": "7-8",
+        "lat": "50.81059492256059",
+        "lon": "12.540379550695954",
+        "startTime": "07:00",
+        "endTime": "08:00",
+        "startOffset": 0,
+        "endOffset": 0,
+        "x": 510,
+        "y": 580,
+        "wires": [
+            [],
+            [
+                "5039a0d7f52ff2c3"
+            ]
+        ],
+        "inputLabels": [
+            "07:00-24:00"
+        ],
+        "outputLabels": [
+            "07:00-08:00",
+            "08:00-24:00"
+        ]
+    },
+    {
+        "id": "5039a0d7f52ff2c3",
+        "type": "time-range-switch",
+        "z": "bb04b45636d46b25",
+        "name": "8-9",
+        "lat": "50.81059492256059",
+        "lon": "12.540379550695954",
+        "startTime": "08:00",
+        "endTime": "09:00",
+        "startOffset": 0,
+        "endOffset": 0,
+        "x": 510,
+        "y": 640,
+        "wires": [
+            [],
+            [
+                "08e6405452df7f72"
+            ]
+        ],
+        "inputLabels": [
+            "08:00-24:00"
+        ],
+        "outputLabels": [
+            "08:00-09:00",
+            "09:00-24:00"
+        ]
+    },
+    {
+        "id": "08e6405452df7f72",
+        "type": "time-range-switch",
+        "z": "bb04b45636d46b25",
+        "name": "9-10",
+        "lat": "50.81059492256059",
+        "lon": "12.540379550695954",
+        "startTime": "09:00",
+        "endTime": "10:00",
+        "startOffset": 0,
+        "endOffset": 0,
+        "x": 510,
+        "y": 700,
+        "wires": [
+            [],
+            [
+                "eaaadd672a997216"
+            ]
+        ],
+        "inputLabels": [
+            "09:00-24:00"
+        ],
+        "outputLabels": [
+            "09:00-10:00",
+            "10:00-24:00"
+        ]
+    },
+    {
+        "id": "eaaadd672a997216",
+        "type": "time-range-switch",
+        "z": "bb04b45636d46b25",
+        "name": "10-11",
+        "lat": "50.81059492256059",
+        "lon": "12.540379550695954",
+        "startTime": "10:00",
+        "endTime": "11:00",
+        "startOffset": 0,
+        "endOffset": 0,
+        "x": 510,
+        "y": 760,
+        "wires": [
+            [],
+            [
+                "de256ef042a2d281"
+            ]
+        ],
+        "inputLabels": [
+            "10:00-24:00"
+        ],
+        "outputLabels": [
+            "10:00-11:00",
+            "11:00-24:00"
+        ]
+    },
+    {
+        "id": "de256ef042a2d281",
+        "type": "time-range-switch",
+        "z": "bb04b45636d46b25",
+        "name": "11-12",
+        "lat": "50.81059492256059",
+        "lon": "12.540379550695954",
+        "startTime": "11:00",
+        "endTime": "12:00",
+        "startOffset": 0,
+        "endOffset": 0,
+        "x": 510,
+        "y": 820,
+        "wires": [
+            [],
+            [
+                "af8bb1983c5e254a"
+            ]
+        ],
+        "inputLabels": [
+            "11:00-24:00"
+        ],
+        "outputLabels": [
+            "11:00-12:00",
+            "12:00-24:00"
+        ]
+    },
+    {
+        "id": "f864ef0a20606a22",
+        "type": "time-range-switch",
+        "z": "bb04b45636d46b25",
+        "name": "13-14",
+        "lat": "50.81059492256059",
+        "lon": "12.540379550695954",
+        "startTime": "13:00",
+        "endTime": "14:00",
+        "startOffset": 0,
+        "endOffset": 0,
+        "x": 970,
+        "y": 220,
+        "wires": [
+            [],
+            [
+                "dcc7ee604e90efe1"
+            ]
+        ],
+        "inputLabels": [
+            "13:00-24:00"
+        ],
+        "outputLabels": [
+            "13:00-14:00",
+            "14:00-24:00"
+        ]
+    },
+    {
+        "id": "dcc7ee604e90efe1",
+        "type": "time-range-switch",
+        "z": "bb04b45636d46b25",
+        "name": "14-15",
+        "lat": "50.81059492256059",
+        "lon": "12.540379550695954",
+        "startTime": "14:00",
+        "endTime": "15:00",
+        "startOffset": 0,
+        "endOffset": 0,
+        "x": 970,
+        "y": 280,
+        "wires": [
+            [],
+            [
+                "e93172058adb110e"
+            ]
+        ],
+        "inputLabels": [
+            "14:00-24:00"
+        ],
+        "outputLabels": [
+            "14:00-15:00",
+            "15:00-24:00"
+        ]
+    },
+    {
+        "id": "e93172058adb110e",
+        "type": "time-range-switch",
+        "z": "bb04b45636d46b25",
+        "name": "15-16",
+        "lat": "50.81059492256059",
+        "lon": "12.540379550695954",
+        "startTime": "15:00",
+        "endTime": "16:00",
+        "startOffset": 0,
+        "endOffset": 0,
+        "x": 970,
+        "y": 340,
+        "wires": [
+            [],
+            [
+                "5406a823c9541d36"
+            ]
+        ],
+        "inputLabels": [
+            "15:00-24:00"
+        ],
+        "outputLabels": [
+            "15:00-16:00",
+            "16:00-24:00"
+        ]
+    },
+    {
+        "id": "5406a823c9541d36",
+        "type": "time-range-switch",
+        "z": "bb04b45636d46b25",
+        "name": "16-17",
+        "lat": "50.81059492256059",
+        "lon": "12.540379550695954",
+        "startTime": "16:00",
+        "endTime": "17:00",
+        "startOffset": 0,
+        "endOffset": 0,
+        "x": 970,
+        "y": 400,
+        "wires": [
+            [],
+            [
+                "b0fed9a4fc781175"
+            ]
+        ],
+        "inputLabels": [
+            "16:00-24:00"
+        ],
+        "outputLabels": [
+            "16:00-17:00",
+            "17:00-24:00"
+        ]
+    },
+    {
+        "id": "b0fed9a4fc781175",
+        "type": "time-range-switch",
+        "z": "bb04b45636d46b25",
+        "name": "17-18",
+        "lat": "50.81059492256059",
+        "lon": "12.540379550695954",
+        "startTime": "17:00",
+        "endTime": "18:00",
+        "startOffset": 0,
+        "endOffset": 0,
+        "x": 970,
+        "y": 460,
+        "wires": [
+            [],
+            [
+                "430d935d8dceb02c"
+            ]
+        ],
+        "inputLabels": [
+            "17:00-24:00"
+        ],
+        "outputLabels": [
+            "17:00-18:00",
+            "18:00-24:00"
+        ]
+    },
+    {
+        "id": "430d935d8dceb02c",
+        "type": "time-range-switch",
+        "z": "bb04b45636d46b25",
+        "name": "18-19",
+        "lat": "50.81059492256059",
+        "lon": "12.540379550695954",
+        "startTime": "18:00",
+        "endTime": "19:00",
+        "startOffset": 0,
+        "endOffset": 0,
+        "x": 970,
+        "y": 520,
+        "wires": [
+            [],
+            [
+                "93ee05b8ebd4f93a"
+            ]
+        ],
+        "inputLabels": [
+            "18:00-24:00"
+        ],
+        "outputLabels": [
+            "18:00-19:00",
+            "19:00-24:00"
+        ]
+    },
+    {
+        "id": "93ee05b8ebd4f93a",
+        "type": "time-range-switch",
+        "z": "bb04b45636d46b25",
+        "name": "19-20",
+        "lat": "50.81059492256059",
+        "lon": "12.540379550695954",
+        "startTime": "19:00",
+        "endTime": "20:00",
+        "startOffset": 0,
+        "endOffset": 0,
+        "x": 970,
+        "y": 580,
+        "wires": [
+            [],
+            [
+                "6c0a475e1cffa794"
+            ]
+        ],
+        "inputLabels": [
+            "19:00-24:00"
+        ],
+        "outputLabels": [
+            "19:00-20:00",
+            "20:00-24:00"
+        ]
+    },
+    {
+        "id": "6c0a475e1cffa794",
+        "type": "time-range-switch",
+        "z": "bb04b45636d46b25",
+        "name": "20-21",
+        "lat": "50.81059492256059",
+        "lon": "12.540379550695954",
+        "startTime": "20:00",
+        "endTime": "21:00",
+        "startOffset": 0,
+        "endOffset": 0,
+        "x": 970,
+        "y": 640,
+        "wires": [
+            [],
+            [
+                "6435a84f7c435670"
+            ]
+        ],
+        "inputLabels": [
+            "20:00-24:00"
+        ],
+        "outputLabels": [
+            "20:00-21:00",
+            "21:00-24:00"
+        ]
+    },
+    {
+        "id": "6435a84f7c435670",
+        "type": "time-range-switch",
+        "z": "bb04b45636d46b25",
+        "name": "21-22",
+        "lat": "50.81059492256059",
+        "lon": "12.540379550695954",
+        "startTime": "21:00",
+        "endTime": "22:00",
+        "startOffset": 0,
+        "endOffset": 0,
+        "x": 970,
+        "y": 700,
+        "wires": [
+            [],
+            [
+                "26f30baab7c84171"
+            ]
+        ],
+        "inputLabels": [
+            "21:00-24:00"
+        ],
+        "outputLabels": [
+            "21:00-22:00",
+            "22:00-24:00"
+        ]
+    },
+    {
+        "id": "26f30baab7c84171",
+        "type": "time-range-switch",
+        "z": "bb04b45636d46b25",
+        "name": "22-23 + 23-24",
+        "lat": "50.81059492256059",
+        "lon": "12.540379550695954",
+        "startTime": "22:00",
+        "endTime": "23:00",
+        "startOffset": 0,
+        "endOffset": 0,
+        "x": 1000,
+        "y": 760,
+        "wires": [
+            [],
+            []
+        ],
+        "inputLabels": [
+            "22:00-24:00"
+        ],
+        "outputLabels": [
+            "22:00-23:00",
+            "23:00-24:00"
+        ]
+    },
+    {
+        "id": "af8bb1983c5e254a",
+        "type": "time-range-switch",
+        "z": "bb04b45636d46b25",
+        "name": "12-13",
+        "lat": "50.81059492256059",
+        "lon": "12.540379550695954",
+        "startTime": "12:00",
+        "endTime": "13:00",
+        "startOffset": 0,
+        "endOffset": 0,
+        "x": 970,
+        "y": 160,
+        "wires": [
+            [],
+            [
+                "f864ef0a20606a22"
+            ]
+        ],
+        "inputLabels": [
+            "12:00-24:00"
+        ],
+        "outputLabels": [
+            "12:00-13:00",
+            "13:00-24:00"
+        ]
+    },
+    {
+        "id": "fb1d7448bc248b20",
+        "type": "time-range-switch",
+        "z": "bb04b45636d46b25",
+        "name": "00:00-06:00",
+        "lat": "50.81059492256059",
+        "lon": "12.540379550695954",
+        "startTime": "00:00",
+        "endTime": "06:00",
+        "startOffset": 0,
+        "endOffset": 0,
+        "x": 490,
+        "y": 100,
+        "wires": [
+            [],
+            [
+                "7a0997ffcaafca4c"
+            ]
+        ],
+        "inputLabels": [
+            "timestamp"
+        ],
+        "outputLabels": [
+            "00:00-06:00",
+            "06:00-24:00"
+        ]
+    },
+    {
+        "id": "dfb2fd9bc95b038b",
+        "type": "time-range-switch",
+        "z": "bb04b45636d46b25",
+        "name": "07:30-22:30",
+        "lat": "50.81059492256059",
+        "lon": "12.540379550695954",
+        "startTime": "07:30",
+        "endTime": "22:30",
+        "startOffset": 0,
+        "endOffset": 0,
+        "x": 950,
+        "y": 100,
+        "wires": [
+            [],
+            []
+        ],
+        "inputLabels": [
+            "06:00-24:00"
+        ],
+        "outputLabels": [
+            "06:00",
+            "22:30"
+        ]
+    },
+    {
+        "id": "7a0997ffcaafca4c",
+        "type": "time-range-switch",
+        "z": "bb04b45636d46b25",
+        "name": "06:00-07:30",
+        "lat": "50.81059492256059",
+        "lon": "12.540379550695954",
+        "startTime": "06:00",
+        "endTime": "07:30",
+        "startOffset": 0,
+        "endOffset": 0,
+        "x": 710,
+        "y": 100,
+        "wires": [
+            [],
+            [
+                "dfb2fd9bc95b038b"
+            ]
+        ],
+        "inputLabels": [
+            "06:00-24:00"
+        ],
+        "outputLabels": [
+            "06:00-07:30",
+            "07:30-24:00"
+        ]
+    }
+]
